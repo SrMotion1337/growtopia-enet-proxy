@@ -1,40 +1,29 @@
-# growtopia-enet-proxy
-Growtopia enet proxy edited by SrMotion#1337
-Growtopia enet proxy edited by SrMotion#0001
+GROWTOPİA ENET PROXY EDİTED BY SrMotion#1337 if you have any questions you can send friend request on discord.
 Growtopia enet proxy that allows modification and viewing of packets, and creation of new ones.
-
-How to use
-Does not need separate http server
-
-Build with Release x64
-
+How to use??
+If you dont know using .sln go to releases page and download .exe then open it.
+The servers are always online.
 Start proxy -> auto patch hosts -> Works as supposed
-
-Features
+Features :
 Print all variantlists and function calls
 Print all text packets
 Supports modifying, ignoring, and making new packets
 /legal command to clear malpractice without owning legal briefs
 More commands which you can find in the changelog
-Has a PoC /name name command to call OnNameChanged function for local client.
-Has a PoC OnSpawn modifier which appends netid to each players' name, and gives you unlim zoom
+More commands which you can find in the changelog
+More commands which you can find in the changelog
 Can both intercept outgoing and incoming packets
 Integrated http server
-Ignore tracking packets and crash log requests
-Ignore autoban packets (NOTE: you can still get autobanned if the check is serversided)
-Works with subserver switching
-Wrench Pull/ban/kick
 Auto Casino Tax Calculator
-Bypass Safe Vault
 Fast Drop/Trash
-Dice Speed
+Fast Drop/Trash
+Bypass Safe Vault
 Exit world when mod joins
 Visual Spin
-World Lock Troll
+Visual Spin
 Pull/kick/ban all
-and more features
 Added auto parse server_data.php
-Credits
-ama6nen
-wry // thanks for helps
-wh1ter0se //thanks for helps
+Credits :
+Eternity GT
+LexZ Hax
+Void Craftrise
